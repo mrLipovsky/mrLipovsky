@@ -1,6 +1,6 @@
 Hi, I'm mrLipovsky 
 
-![mrLipovsky_card_github](https://user-images.githubusercontent.com/90620664/210165557-32c66413-ccd7-48e4-bb9b-a0cc14928071.png)
+![mrLipovsky_card_github](https://user-images.githubusercontent.com/90620664/210165566-09262313-fe58-419c-b742-0f9b94368667.png)
 
 
 About me
