@@ -13,8 +13,8 @@ Get in touch
 Your future buddy to discuss front-end related things and tech in general
 
 Find me around the web
-Me graphic and illustrations on Instagram https://www.instagram.com/peter_lipo_illustrations/
-Me profesion skills on LinkedIn https://www.linkedin.com/in/peterlipovsky/
+Me graphic and illustrations on Instagram: peter_lipo_illustrations
+Me profesion skills on LinkedIn: peterlipovsky
 
 
 ![flash_two](https://user-images.githubusercontent.com/90620664/210165254-4e4be329-72a9-4eab-a593-95cd9d914078.png)
