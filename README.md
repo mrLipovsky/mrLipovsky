@@ -1,6 +1,7 @@
 Hi, I'm mrLipovsky 
 
-![flash](https://user-images.githubusercontent.com/90620664/210165138-5192121e-6edf-493c-b261-02e38edf8552.png)
+
+![flash_one](https://user-images.githubusercontent.com/90620664/210165219-064b22b7-c0b9-4678-a942-f1128f45d420.png)
 
 
 About me
@@ -15,3 +16,5 @@ Your future buddy to discuss front-end related things and tech in general
 Find me around the web
 Me graphic and illustrations on Instagram https://www.instagram.com/peter_lipo_illustrations/
 Me profesion skills on LinkedIn https://www.linkedin.com/in/peterlipovsky/
+
+![flash_two](https://user-images.githubusercontent.com/90620664/210165222-56aaf3b6-a82f-4e4c-b1cf-1cd08952c9bd.png)
