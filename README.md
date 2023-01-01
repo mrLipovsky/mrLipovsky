@@ -1,6 +1,6 @@
 Hi, I'm mrLipovsky 
 
-![flash_two](https://user-images.githubusercontent.com/90620664/210165254-4e4be329-72a9-4eab-a593-95cd9d914078.png)
+![mrLipovsky_card_github](https://user-images.githubusercontent.com/90620664/210165557-32c66413-ccd7-48e4-bb9b-a0cc14928071.png)
 
 
 About me
@@ -16,4 +16,5 @@ Find me around the web
 Me graphic and illustrations on Instagram https://www.instagram.com/peter_lipo_illustrations/
 Me profesion skills on LinkedIn https://www.linkedin.com/in/peterlipovsky/
 
-![flash_one](https://user-images.githubusercontent.com/90620664/210165255-84fce829-a5a2-4992-a6e4-5118ce4a58bf.png)
+
+![flash_two](https://user-images.githubusercontent.com/90620664/210165254-4e4be329-72a9-4eab-a593-95cd9d914078.png)
