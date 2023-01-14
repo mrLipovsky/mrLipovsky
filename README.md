@@ -5,23 +5,20 @@ Hi, I'm mrLipovsky
 
 About me
 
-I'm Peter Lipovsky. I'm a software engineer who is passionate about making web sites focused on design. An FE Engineer, designer and founder at graphicstudio.eu and also burned.com. Some technologies I enjoy working with include Python, JS, CSS. A Front-end Developer, expert on graphic design. 
+I'm Peter Lipovsky. I'm a software engineer who is passionate about coding web sites focused on design. I am an Front-end Engineer, designer and founder of graphicstudio.eu and also burned.com. Some of the technologies I enjoy working with include Python, JS, CSS. A Front-end engineer and expert on graphic design. 
 
 
-Things I am passionate about
-
-Front-end, graphic design and illustrations
-
-
-Get in touch
-
-Your future buddy to discuss front-end related things and tech in general
+Things I am passionate about>
+are front-end, graphic design and illustrations
 
 
-Find me around the web
+Get in touch>
+because Iam your future buddy to discuss front-end related things and tech in general
 
-Me graphic and illustrations on Instagram: peter_lipo_illustrations
-Me profesional skills on LinkedIn: peterlipovsky
 
+Find me around the web>
+me graphics and illustrations can be find on Instagram: peter_lipo_illustrations
+me profesional skills on LinkedIn: peterlipovsky
+me websites on the web: graphiqstudio.eu
 
 ![flash_two](https://user-images.githubusercontent.com/90620664/210165254-4e4be329-72a9-4eab-a593-95cd9d914078.png)
