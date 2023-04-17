@@ -8,7 +8,7 @@ I'm "Peter Lipovsky" - I'm a software engineer who is passionate about coding we
 <br>
 
 
-<Things I am passionate about>
+<Things I am passionate about>>
 are front-end, graphic design and illustrations
 <br>
 
